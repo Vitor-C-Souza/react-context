@@ -21,6 +21,7 @@ function Produto({
         <div>
           <img
             src={`/assets/${foto}.png`}
+            
             alt={`foto de ${nome}`}
           />
           <p>
